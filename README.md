@@ -1,6 +1,6 @@
 <div align="center">
 
-# Victor Serafim
+[![blur](docs/samples/blur.svg)](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Victor%20Hugo%20Serafim&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false)
 
 ### Full-Stack Software Engineer
 
@@ -101,7 +101,7 @@ I'm a **Full-Stack Software Engineer** based in Barretos/SP, Brazil, with a bach
 
 <div align="center">
 
-![Victor's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorHugoSerafim&theme=github-dark&hide_border=true)
+![Victor's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorHugoSerafim&theme=github-dark&hide_border=true&bg_color=00000000)
 
 </div>
 
