@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Victor%20Serafim&strokeWidth=2&section=header&reversal=true&fontAlign=50&stroke=#478be6&fontColor=#478be6&fontSize=55&textBg=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Victor%20Serafim&strokeWidth=2&section=header&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false"/>
 
 ### Full-Stack Software Engineer
 
