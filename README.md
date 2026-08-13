@@ -1,6 +1,10 @@
 <div align="center">
 
-[![blur](docs/samples/blur.svg)](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Victor%20Hugo%20Serafim&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0D1117&height=200&section=header&text=Victor%20Hugo%20Serafim&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
+
+[![blur]](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Victor%20Hugo%20Serafim&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false)
 
 ### Full-Stack Software Engineer
 
