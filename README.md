@@ -25,10 +25,8 @@ I'm a **Full-Stack Software Engineer** based in Barretos/SP, Brazil, with a bach
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -70,6 +68,6 @@ I'm a **Full-Stack Software Engineer** based in Barretos/SP, Brazil, with a bach
 
 <div align="center">
 
-*Let's connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/victor-hugo-serafim) or drop me an [email](mailto:victor.hugo.serafim@hotmail.com).*
+_Let's connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/victor-hugo-serafim) or drop me an [email](mailto:victor.hugo.serafim@hotmail.com)._
 
 </div>
