@@ -101,7 +101,7 @@ I'm a **Full-Stack Software Engineer** based in Barretos/SP, Brazil, with a bach
 
 <div align="center">
 
-![Victor's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorHugoSerafim&&theme=transparent&hide_border=true)
+![Victor's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorHugoSerafim&theme=github-dark&hide_border=true)
 
 </div>
 
